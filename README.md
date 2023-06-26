@@ -8,4 +8,5 @@ Sample Input
 string = "abedba"
 
 Sample Output
+
 True // it's written the same forward and backward
